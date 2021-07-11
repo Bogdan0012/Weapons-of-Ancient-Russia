@@ -1,3 +1,8 @@
+#include "C_Type.h"
+#include "C_Infantry.h"
+#include "C_Cavalry.h"
+#include "C_Fleet.h"
+
 //#include "C_Weapon.h"
 #include "Ñ_Offensive.h"
 #include "C_Protective.h"
